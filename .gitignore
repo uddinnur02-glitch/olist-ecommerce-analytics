@@ -1,0 +1,21 @@
+# PostgreSQL / local files
+*.log
+*.tmp
+
+# Power BI temporary files
+*.pbit
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python cache if used later
+__pycache__/
+*.pyc
+
+# Raw dataset
+data/
